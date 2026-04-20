@@ -21,7 +21,7 @@ Deleting and reinstalling the app will reset the PIN. Note: this will also erase
 
 ## Contact
 
-For support, questions, or feedback, please open an issue on this repository or email us at: **yashb2009@gmail.com**
+For support, questions, or feedback, please open an issue on this repository or email us at: **ybhavsar2009@gmail.com**
 
 ## Privacy Policy
 
